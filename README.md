@@ -1,1 +1,1 @@
-#terminal-theme
+# terminal-theme
